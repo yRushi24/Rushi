@@ -1,0 +1,38 @@
+body{
+    background-color: #63a5c9;
+
+}    
+
+h1{
+    color: #000305;
+    font-style: bold;
+    font-family: "consolas";
+    
+};
+#p1{
+    color: blue;
+}
+
+a{
+    color: antiquewhite;
+    border-style: ridge;
+}
+h2{
+    color:wheat;
+
+}
+pre{
+    color: azure;
+}
+#p9{
+    color: rgb(1, 0, 0);
+    font-family:"consolas" ;
+}
+#p8{
+    font-family: "consolas";
+
+}
+#p5{
+    color: #000305;
+    font-family: "consolas";
+}
